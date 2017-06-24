@@ -5,3 +5,4 @@ dobawish nesh`o sys notepad
 novo
 sega na otd
 se ot konsolata
+se s novoto mesage
